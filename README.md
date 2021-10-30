@@ -1,6 +1,6 @@
 # Livro de Receitas :man_cook:
 
-Olá, bem vindo ao meu exercício de Git. Esse é um livro de receitas que foi feita através de diferentes versões.
+Olá, bem vindo ao meu exercício de Git. Esse é um livro de receitas que possui várias versões.
 
 Nossa primeira receita é:
 
