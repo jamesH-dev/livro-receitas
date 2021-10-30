@@ -7,4 +7,4 @@ Nossa primeira receita é:
 - Kibe Cru - Não é o mesmo texto, mas lembro eu digitando pela primeira vez em um computador essa receita, em 2001.
 - Strogonoff - Adicionado
 
-- Conflito
+- Frango Assado
